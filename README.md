@@ -1,2 +1,2 @@
 # BI
-power BI dashboard on AdventureWorks dw sample database
+power BI dashboard on AdventureWorksDW sample database
